@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-ibxhfn.3depositcasino.co.nz/sitemap.xml
